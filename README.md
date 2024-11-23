@@ -90,7 +90,8 @@ Click the cds.lib file and save the file by clicking on Save option
 	Select “Don’t include any libraries (verilog design)” from “New cds.lib file” and click on “OK” as in below figure
 
 	We are simulating verilog design without using any libraries
-![Screenshot 2024-11-23 151057](https://github.com/user-attachments/assets/ce1a0455-a30c-4f0e-b1d1-d0fa297e20c5)
+![Screenshot 2024-11-23 151915](https://github.com/user-attachments/assets/03701815-c99c-45c8-8b98-faa6c7af75bf)
+
 
 ## Fig 5: Selection of Don’t include any libraries
 
